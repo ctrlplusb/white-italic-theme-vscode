@@ -9,7 +9,7 @@
         "minimal",
         "monochrome"
     ],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "ctrlplusb",
     "author": {
         "name": "Sean Matheson"
@@ -35,12 +35,12 @@
     "contributes": {
         "themes": [
             {
-                "label": "White",
+                "label": "White Italic",
                 "uiTheme": "vs",
                 "path": "./themes/White-color-theme.json"
             },
             {
-                "label": "White Night",
+                "label": "White Italic Night",
                 "uiTheme": "vs-dark",
                 "path": "./themes/White-Night-color-theme.json"
             }
