@@ -1,7 +1,7 @@
 {
-    "name": "white",
-    "displayName": "White",
-    "description": "Minimalist monochrome theme",
+    "name": "white-italic",
+    "displayName": "White Italic",
+    "description": "Minimalist monochrome theme with italics",
     "keywords": [
         "white",
         "theme",
@@ -9,10 +9,10 @@
         "minimal",
         "monochrome"
     ],
-    "version": "1.2.3",
-    "publisher": "arthurwhite",
+    "version": "1.0.0",
+    "publisher": "ctrlplusb",
     "author": {
-        "name": "Arthur White"
+        "name": "Sean Matheson"
     },
     "icon": "icon.png",
     "engines": {
@@ -26,11 +26,11 @@
         "theme": "dark"
     },
     "bugs": {
-        "url": "https://github.com/arthurwhite/white-theme-vscode/issues"
+        "url": "https://github.com/ctrlplusb/white-italic-theme-vscode/issues"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/arthurwhite/white-theme-vscode"
+        "url": "https://github.com/ctrlplusb/white-italic-theme-vscode"
     },
     "contributes": {
         "themes": [
