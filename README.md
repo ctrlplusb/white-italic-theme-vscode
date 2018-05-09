@@ -23,11 +23,11 @@ The [NightSwitch](https://marketplace.visualstudio.com/items?itemName=gharveymn.
 
 ### White Italic
 
-<p align="center"><img src="https://i.imgur.com/WAM6T46.png" alt="White Italic screenshot"></p>
+<p align="center"><img src="https://i.imgur.com/AQGF3a1.png" alt="White Italic screenshot"></p>
 
 ### White Italic Night
 
-<p align="center"><img src="https://i.imgur.com/Ta0ddOG.png" alt="White Italic Night screenshot"></p>
+<p align="center"><img src="https://i.imgur.com/8sQveig.png" alt="White Italic Night screenshot"></p>
 
 ## Credits
 
