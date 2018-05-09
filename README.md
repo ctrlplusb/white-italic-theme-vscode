@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/4mnFoTl.png" alt="White">i</p>
+<p align="center"><img src="/assets/logo.png" alt="White"></p>
 
 Minimalist monochrome theme for [Visual Studio Code](https://code.visualstudio.com) with support for italic fonts (e.g. Operator Mono).
 
@@ -21,13 +21,13 @@ The [NightSwitch](https://marketplace.visualstudio.com/items?itemName=gharveymn.
 
 ## Screenshots
 
-### White
+### White Italic
 
-<p align="center"><img src="https://i.imgur.com/DXMUjNT.png" alt="White screenshot"></p>
+<p align="center"><img src="/assets/screenshot-white.png" alt="White Italic screenshot"></p>
 
-### White Night
+### White Italic Night
 
-<p align="center"><img src="https://i.imgur.com/asfhGzC.png" alt="White Night screenshot"></p>
+<p align="center"><img src="/assets/screenshot-night.png" alt="White Italic Night screenshot"></p>
 
 ## Credits
 
